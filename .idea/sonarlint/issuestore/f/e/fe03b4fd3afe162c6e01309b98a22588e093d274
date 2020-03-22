@@ -1,0 +1,15 @@
+
+A
+java:S1659"Declare "c" on a separate line.(Ã’Ùëıÿÿÿÿ8æüˆÿ.
+J
+java:S1125"(Remove the literal "true" boolean value.(²äşîùÿÿÿÿ8áùÙ‚.
+D
+java:S1659""Declare "suma" on a separate line.(Ã’Ùëıÿÿÿÿ8æüˆÿ.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦•Ñó8æüˆÿ.
+A
+java:S1659"Declare "b" on a separate line.(Ã’Ùëıÿÿÿÿ8æüˆÿ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(™È şÿÿÿÿ8Ê¿¯ÿ.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï•æŸ8æüˆÿ.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Çµí‘8à‡Ô‚.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ı’èÆüÿÿÿÿ8íæ«ÿ.
